@@ -10,7 +10,7 @@
   
 **Enlaces**
   
-Código: Repositorio GitHub  
+Código: https://github.com/MateoVera12/ProyectoEmbarazoAdolescente/blob/main/ProyectoFinal_EmbarazoAdolescente.ipynb  
 
 Video: Presentación del Proyecto  
 
