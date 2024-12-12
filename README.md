@@ -14,8 +14,8 @@
   
 **Enlaces**
   
-Código: https://github.com/MateoVera12/ProyectoEmbarazoAdolescente/blob/main/ProyectoFinal_EmbarazoAdolescente.ipynb  
+Código: [Código](https://github.com/MateoVera12/ProyectoEmbarazoAdolescente/blob/main/ProyectoFinal_EmbarazoAdolescente.ipynb) 
 
 Video: [Presentación del Proyecto ](https://youtu.be/lGfH_SAV6Sk) 
 
-Repositorio: https://github.com/MateoVera12/ProyectoEmbarazoAdolescente
+Repositorio: [Repositorio](https://github.com/MateoVera12/ProyectoEmbarazoAdolescente)
