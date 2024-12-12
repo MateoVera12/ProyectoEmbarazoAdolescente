@@ -6,7 +6,8 @@
 
 **Objetivo:** Aplicar inteligencia artificial para predecir la salud neonatal y clasificar el tipo de parto en embarazos adolescentes.    
 
-**Dataset:** https://www.datos.gov.co/Salud-y-Protecci-n-Social/Embarazo-en-adolescentes/dpcy-dq5j/about_data
+**Dataset:** [Embarazos Adolescentes (2010-2016)](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Embarazo-en-adolescentes/dpcy-dq5j/about_data)
+
 **Modelos Utilizados**
 - Clasificación: DecisionTreeClassifier, RandomForestClassifier, SVC
 - Regresión: DecisionTreeRegressor, RandomForestRegressor, SVR
